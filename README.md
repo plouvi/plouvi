@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, J'suis jonathan vibert-vallet</h1>
+<h1 align="center">Bonjour 👋, Je suis jonathan vibert-vallet</h1>
 <h3 align="center">Développeur front-end freelance</h3>
 
 - 🔭 Je travaille actuellement sur **Kuyoshimi**
