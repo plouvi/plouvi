@@ -5,8 +5,6 @@
 
 - 🌱 J'apprends actuellement **ReactJS**
 
-- 👯 Je cherche à collaborer sur **shops,**
-
 - 👨‍💻 Tous mes projets personnels sont disponibles sur [Github](Github)
 
 - 📫 How to reach me **jonathan.vibert@gmx.fr**
