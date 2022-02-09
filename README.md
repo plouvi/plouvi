@@ -7,7 +7,7 @@
 
 - 👨‍💻 Tous mes projets personnels sont disponibles sur [Github](Github)
 
-- 📫 How to reach me **jonathan.vibert@gmx.fr**
+- 📫 Pour me joindre me joindre **jonathan.vibert@gmx.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
