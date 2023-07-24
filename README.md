@@ -1,13 +1,11 @@
-<h1 align="center">👋Bonjour👋, Je suis jonathan vibert-vallet</h1>
-<h3 align="center">Développeur front-end freelance</h3>
+<h1 align="center">Je suis jonathan vibert-vallet</h1>
+<h2 align="center">Développeur Python</h2>
 
-- 🔭 Je travaille actuellement sur le projet **KSI**
-
-- 🌱 J'apprends actuellement **ReactJS**
+- 🔭 Je travaille actuellement sur le projet **A.I.short**
 
 - 👨‍💻 Tous mes projets personnels sont disponibles sur [Github](Github)
 
-- 📫 Pour me joindre me joindre **jonathan.vibert@gmx.fr**
+- 📫 Pour me joindre me joindre **jonathan.vibertvallet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
