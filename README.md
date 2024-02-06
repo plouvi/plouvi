@@ -5,7 +5,7 @@
 
 - 👨‍💻 Tous mes projets personnels sont disponibles sur [Github](Github)
 
-- 📫 Pour me joindre me joindre **jonathan.vibertvallet@gmail.com**
+- 📫 Pour me joindre **jonathan.vibertvallet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
